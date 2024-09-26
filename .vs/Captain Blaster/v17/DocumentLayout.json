@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Development\\Unity training\\Captain Blaster\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C606C8-22C4-743C-0F02-E857EF361196}|Assembly-CSharp.csproj|C:\\Development\\Unity training\\Captain Blaster\\assets\\resourses\\meteor\\meteor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C606C8-22C4-743C-0F02-E857EF361196}|Assembly-CSharp.csproj|solutionrelative:assets\\resourses\\meteor\\meteor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C606C8-22C4-743C-0F02-E857EF361196}|Assembly-CSharp.csproj|C:\\Development\\Unity training\\Captain Blaster\\assets\\resourses\\bullet\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C606C8-22C4-743C-0F02-E857EF361196}|Assembly-CSharp.csproj|solutionrelative:assets\\resourses\\bullet\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C606C8-22C4-743C-0F02-E857EF361196}|Assembly-CSharp.csproj|c:\\development\\unity training\\captain blaster\\assets\\scripts\\meteorspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C606C8-22C4-743C-0F02-E857EF361196}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\meteorspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C606C8-22C4-743C-0F02-E857EF361196}|Assembly-CSharp.csproj|C:\\Development\\Unity training\\Captain Blaster\\assets\\resourses\\spaceship\\shipcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C606C8-22C4-743C-0F02-E857EF361196}|Assembly-CSharp.csproj|solutionrelative:assets\\resourses\\spaceship\\shipcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C606C8-22C4-743C-0F02-E857EF361196}|Assembly-CSharp.csproj|C:\\Development\\Unity training\\Captain Blaster\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C606C8-22C4-743C-0F02-E857EF361196}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C606C8-22C4-743C-0F02-E857EF361196}|Assembly-CSharp.csproj|C:\\Development\\Unity training\\Captain Blaster\\assets\\scripts\\explosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C606C8-22C4-743C-0F02-E857EF361196}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\explosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C606C8-22C4-743C-0F02-E857EF361196}|Assembly-CSharp.csproj|C:\\Development\\Unity training\\Captain Blaster\\assets\\scripts\\playerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C606C8-22C4-743C-0F02-E857EF361196}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C606C8-22C4-743C-0F02-E857EF361196}|Assembly-CSharp.csproj|C:\\Development\\Unity training\\Captain Blaster\\assets\\scripts\\shredder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C606C8-22C4-743C-0F02-E857EF361196}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shredder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Shredder.cs",
+              "DocumentMoniker": "C:\\Development\\Unity training\\Captain Blaster\\Assets\\Scripts\\Shredder.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Shredder.cs",
+              "ToolTip": "C:\\Development\\Unity training\\Captain Blaster\\Assets\\Scripts\\Shredder.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Shredder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T05:34:09.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerUI.cs",
+              "DocumentMoniker": "C:\\Development\\Unity training\\Captain Blaster\\Assets\\Scripts\\PlayerUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerUI.cs",
+              "ToolTip": "C:\\Development\\Unity training\\Captain Blaster\\Assets\\Scripts\\PlayerUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerUI.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:40:42.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Explosion.cs",
+              "DocumentMoniker": "C:\\Development\\Unity training\\Captain Blaster\\Assets\\Scripts\\Explosion.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Explosion.cs",
+              "ToolTip": "C:\\Development\\Unity training\\Captain Blaster\\Assets\\Scripts\\Explosion.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Explosion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T07:19:49.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MeteorSpawner.cs",
+              "DocumentMoniker": "C:\\Development\\Unity training\\Captain Blaster\\Assets\\Scripts\\MeteorSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MeteorSpawner.cs",
+              "ToolTip": "C:\\Development\\Unity training\\Captain Blaster\\Assets\\Scripts\\MeteorSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MeteorSpawner.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAtwIgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T04:21:37.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShipControl.cs",
+              "DocumentMoniker": "C:\\Development\\Unity training\\Captain Blaster\\Assets\\Resourses\\Spaceship\\ShipControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Resourses\\Spaceship\\ShipControl.cs",
+              "ToolTip": "C:\\Development\\Unity training\\Captain Blaster\\Assets\\Resourses\\Spaceship\\ShipControl.cs",
+              "RelativeToolTip": "Assets\\Resourses\\Spaceship\\ShipControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:26:13.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Meteor.cs",
+              "DocumentMoniker": "C:\\Development\\Unity training\\Captain Blaster\\Assets\\Resourses\\Meteor\\Meteor.cs",
+              "RelativeDocumentMoniker": "Assets\\Resourses\\Meteor\\Meteor.cs",
+              "ToolTip": "C:\\Development\\Unity training\\Captain Blaster\\Assets\\Resourses\\Meteor\\Meteor.cs",
+              "RelativeToolTip": "Assets\\Resourses\\Meteor\\Meteor.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T04:53:53.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Development\\Unity training\\Captain Blaster\\Assets\\Resourses\\Bullet\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Resourses\\Bullet\\Bullet.cs",
+              "ToolTip": "C:\\Development\\Unity training\\Captain Blaster\\Assets\\Resourses\\Bullet\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Resourses\\Bullet\\Bullet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:13:12.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Development\\Unity training\\Captain Blaster\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Development\\Unity training\\Captain Blaster\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAuwC0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T09:34:54.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

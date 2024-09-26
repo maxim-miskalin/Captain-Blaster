@@ -76,7 +76,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: -1
   m_Sprite: {fileID: -484253776, guid: d65e57bc582937e419a35edd3fb93ea5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -226,8 +226,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 36de58af01427b941b31b832bc9c568f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _bullet: {fileID: 1208493752769531818, guid: 7bc75ac16270cb74cb0dc9dd1ff97380, type: 3}
-  _reloadTime: 1
-  _spawnBullet: {x: 0, y: 1.2, z: 0}
+  _joystick: {fileID: 0}
   _speed: 10
   _offsetXLimit: 2
+  _bullet: {fileID: 1208493752769531818, guid: 7bc75ac16270cb74cb0dc9dd1ff97380, type: 3}
+  _spawnBullet: {x: 0, y: 1.2, z: 0}
+  _reloadTime: 1
+  _defualtCapacity: 10
+  _maxSize: 20

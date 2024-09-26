@@ -3,39 +3,45 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    [SerializeField] private ShipControl _ship;
-    [SerializeField] private TextMeshProUGUI _scoreText;
-    [SerializeField] private TextMeshProUGUI _gameOver;
-
-    private int _score = 0;
-
-    private void OnEnable()
-    {
-        _ship.Died += DiePlayer;
-        _ship.DestroedMeteor += AddScore;
-    }
-
-    private void OnDisable()
-    {
-        _ship.Died -= DiePlayer;
-        _ship.DestroedMeteor -= AddScore;
-    }
+    [SerializeField] private Canvas _menu;
+    [SerializeField] private PlayerUI _playerUI;
+    [SerializeField] private MeteorSpawner _meteorSpawner;
+    [SerializeField] private ShipControl _shipControl;
 
     private void Start()
     {
-        _scoreText.text = _score.ToString();
-        _gameOver.gameObject.SetActive(false);
+        Time.timeScale = 0f;
     }
 
-    public void AddScore()
+    public void ExitMenu()
     {
-        _score++;
-        _scoreText.text = _score.ToString();
-    }
-
-    public void DiePlayer()
-    {
-        _gameOver.gameObject.SetActive(true);
         Time.timeScale = 0;
+        _playerUI.gameObject.SetActive(false);
+        _menu.gameObject.SetActive(true);
     }
+
+    public void PlayGame()
+    {
+        _playerUI.gameObject.SetActive(true);
+        _menu.gameObject.SetActive(false);
+        Time.timeScale = 1f;
+    }
+
+    public void RestartGame()
+    {
+        _meteorSpawner.ResetPool();
+        _shipControl.ResetPool();
+        _playerUI.StartGame();
+        PlayGame();
+    }
+
+    public void QuitApplication()
+    {
+        Application.Quit();
+    }
+}
+
+public interface IPoolObject
+{
+    public void Return();
 }

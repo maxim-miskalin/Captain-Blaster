@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class ShredderScaler : MonoBehaviour
+public class Shredder : MonoBehaviour
 {
     [SerializeField] private bool _isLR;
     [SerializeField] private float _offset = 2f;
@@ -29,5 +29,13 @@ public class ShredderScaler : MonoBehaviour
             foreach (BoxCollider2D collider in _collider2D)
                 collider.size = new(halfWidth * 2 + _offset, collider.size.y);
         }
+    }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.TryGetComponent(out IPoolObject objectPool))
+            objectPool.Return();
+        else
+            Destroy(other.gameObject);
     }
 }

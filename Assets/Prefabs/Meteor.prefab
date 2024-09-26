@@ -76,7 +76,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: -1
   m_Sprite: {fileID: -1271087547, guid: 594a7637fed1a6341841a1b311dfd51a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -188,6 +188,5 @@ MonoBehaviour:
   _minRandomModifier: 0.5
   _maxRandomModifier: 1.5
   _maxScaleToSpawnChild: 2
-  _maxChildMeteor: 4
-  _explosionRadius: 3
-  _explosionForse: 5
+  _minChildMeteor: 1
+  _maxChildMeteor: 3
